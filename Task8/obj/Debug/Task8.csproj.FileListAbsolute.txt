@@ -1,0 +1,7 @@
+C:\Users\V.Cherednichenko\source\repos\HW\Task8\obj\Debug\Task8.csproj.AssemblyReference.cache
+C:\Users\V.Cherednichenko\source\repos\HW\Task8\obj\Debug\Task8.csproj.CoreCompileInputs.cache
+C:\Users\V.Cherednichenko\source\repos\HW\Task8\bin\Debug\Task8.exe.config
+C:\Users\V.Cherednichenko\source\repos\HW\Task8\bin\Debug\Task8.exe
+C:\Users\V.Cherednichenko\source\repos\HW\Task8\bin\Debug\Task8.pdb
+C:\Users\V.Cherednichenko\source\repos\HW\Task8\obj\Debug\Task8.exe
+C:\Users\V.Cherednichenko\source\repos\HW\Task8\obj\Debug\Task8.pdb

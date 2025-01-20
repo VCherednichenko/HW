@@ -1,0 +1,4 @@
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net5.0\GroceryStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net5.0\GroceryStore.Models.AssemblyInfoInputs.cache
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net5.0\GroceryStore.Models.AssemblyInfo.cs
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net5.0\GroceryStore.Models.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\V.Cherednichenko\source\repos\HW\Project2\obj\Debug\Task3_2.csproj.AssemblyReference.cache
+C:\Users\V.Cherednichenko\source\repos\HW\Project2\obj\Debug\Task3_2.csproj.CoreCompileInputs.cache

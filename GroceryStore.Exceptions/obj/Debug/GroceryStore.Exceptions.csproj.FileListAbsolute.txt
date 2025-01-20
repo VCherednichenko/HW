@@ -1,0 +1,2 @@
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Exceptions\obj\Debug\GroceryStore.Exceptions.csproj.AssemblyReference.cache
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Exceptions\obj\Debug\GroceryStore.Exceptions.csproj.CoreCompileInputs.cache

@@ -1,0 +1,52 @@
+[
+    {
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "age": "9",
+        "sex": "M",
+        "hasDiscountCard": false,
+        "personalDiscount": null,
+        "cart": [
+            {
+                "name": "Coca-Cola",
+                "category": 5,
+                "price": 1.12,
+                "expirationDate": "22.06.23",
+                "isAlcohol": false,
+                "volume": 0.5
+            },
+            {
+                "name": "Lay's Cheese",
+                "category": 4,
+                "price": 2.49,
+                "expirationDate": "22.06.23",
+                "isNoFat": false
+            }
+        ]
+    },
+    {
+        "firstName": "Peter",
+        "lastName": "Shmarker",
+        "age": "9",
+        "sex": "M",
+        "hasDiscountCard": false,
+        "personalDiscount": null,
+        "cart": [
+            {
+                "name": "Coca-Cola",
+                "category": 5,
+                "price": 1.12,
+                "expirationDate": "22.06.23",
+                "isAlcohol": false,
+                "volume": 0.5
+            },
+            {
+                "name": "Lay's Cheese",
+                "category": 4,
+                "price": 2.49,
+                "expirationDate": "22.06.23",
+                "isNoFat": false
+            }
+        ]
+    }
+]

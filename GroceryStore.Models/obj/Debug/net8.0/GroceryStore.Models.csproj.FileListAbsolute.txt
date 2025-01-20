@@ -1,0 +1,11 @@
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\bin\Debug\net8.0\GroceryStore.Models.deps.json
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\bin\Debug\net8.0\GroceryStore.Models.dll
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\bin\Debug\net8.0\GroceryStore.Models.pdb
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net8.0\GroceryStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net8.0\GroceryStore.Models.AssemblyInfoInputs.cache
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net8.0\GroceryStore.Models.AssemblyInfo.cs
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net8.0\GroceryStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net8.0\GroceryStore.Models.dll
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net8.0\refint\GroceryStore.Models.dll
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net8.0\GroceryStore.Models.pdb
+C:\Users\V.Cherednichenko\source\repos\HW\GroceryStore.Models\obj\Debug\net8.0\ref\GroceryStore.Models.dll
